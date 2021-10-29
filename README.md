@@ -24,4 +24,4 @@
 ## 1) Front End;
 
 ### 1.1 
-![Lógica de Programação Essencial](https://github.com/DevKleberMendes/Cursos/commit/d3ecb297ca2d7fd44fadca67613e14fa7a7321d2#diff-2afbca0882406220dad7a849f918ee6e7b0b779fe19be4e52f10c1e48e627939)
+![Lógica de Programação Essencial](https://github.com/DevKleberMendes/Cursos/blob/main/1.1%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20Essencial.png)
