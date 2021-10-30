@@ -25,7 +25,7 @@
 
 ### 1.1 Lógica de Programação Essencial
 ![Lógica de Programação Essencial](https://github.com/DevKleberMendes/Cursos/blob/main/1.1%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20Essencial.png)
-### 1.2 1.2 Estrutura de Dados e Algoritmos
+### 1.2 Estrutura de Dados e Algoritmos
 ![1.2 Estrutura de Dados e Algoritmos](https://github.com/DevKleberMendes/Cursos/blob/main/1.2%20Estrutura%20de%20Dados%20e%20Algoritmos.png)
 ### 1.3 Git e ao GitHub
 ![Git e ao GitHub](https://github.com/DevKleberMendes/Cursos/blob/main/1.3%20Git%20e%20ao%20GitHub.png)
