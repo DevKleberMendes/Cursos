@@ -44,6 +44,25 @@
 ### 2.23 Trabalhando com visualização de dados usando MicroStrategy;
 
 
+## 3) Engenharia de Dados Cloud:
+### 3.1  Shell script - Manipulando Arquivos
+### 3.2  Fundamentos de Arquitetura de Sistemas
+### 3.3  Arquitetura de Sistemas Avançado
+### 3.4  Introdução a orquestração de contêineres com Docker
+### 3.5  Conceitos e melhores práticas com bancos de dados PostgreSQL
+### 3.6  Introdução ao MongoDB e Bancos de Dados NoSQL
+### 3.7  Explorando o poder do NoSQL com Cassandra e HBase
+### 3.8  Fundamentos de ETL com Python
+### 3.9  Análise de dados com Python e Pandas
+### 3.10 Monitoramento de clusters Hadoop de alto nível com HDFS e YARN
+### 3.11 Orquestrando ambientes de Big Data distribuídos com Zookeeper, Yarn e Sqoop
+### 3.12 Como realizar consultas de maneira simples no ambiente complexo de Big Data com Hive e Impala
+### 3.13 Processando grandes conjuntos de dados de forma paralela e distribuída com Spark
+### 3.14 Criando pipelines de dados eficientes com Spark e Python
+### 3.15 Introdução a Engenharia de Dados na AWS
+### 3.16 Introdução a Engenharia de Dados na Azure
+### 3.17 Introdução à Mensageria na Nuvem Com Kafka e Python
+
 # Certificados:
 
 ## 1) Front End:
@@ -126,3 +145,41 @@
 ![2.22 Análise de dados com Python e Pandas](https://github.com/DevKleberMendes/Cursos/blob/main/2.22%20An%C3%A1lise%20de%20dados%20com%20Python%20e%20Pandas.png)
 ### 2.23 Trabalhando com visualização de dados usando MicroStrategy
 ![2.23 Trabalhando com visualização de dados usando MicroStrategy](https://github.com/DevKleberMendes/Cursos/blob/main/2.23%20Trabalhando%20com%20visualiza%C3%A7%C3%A3o%20de%20dados%20usando%20MicroStrategy.png)
+
+
+## 3) Engenharia de Dados Cloud:
+### 3.1 Shell script - Manipulando Arquivos
+![Shell script - Manipulando Arquivos](https://github.com/DevKleberMendes/Cursos/blob/main/3.1%20Shell%20script%20-%20Manipulando%20Arquivos.png)
+### 3.2 Fundamentos de Arquitetura de Sistemas
+![Fundamentos de Arquitetura de Sistemas](https://github.com/DevKleberMendes/Cursos/blob/main/3.2%20Fundamentos%20de%20Arquitetura%20de%20Sistemas.png)
+### 3.3 Arquitetura de Sistemas Avançado
+![Arquitetura de Sistemas Avançado](https://github.com/DevKleberMendes/Cursos/blob/main/3.3%20Arquitetura%20de%20Sistemas%20Avan%C3%A7ado.png)
+### 3.4  Introdução a orquestração de contêineres com Docker
+![Introdução a orquestração de contêineres com Docker](https://github.com/DevKleberMendes/Cursos/blob/main/3.4%20Introdu%C3%A7%C3%A3o%20a%20orquestra%C3%A7%C3%A3o%20de%20cont%C3%AAineres%20com%20Docker.png)
+### 3.5 Conceitos e melhores práticas com bancos de dados PostgreSQL
+![Conceitos e melhores práticas com bancos de dados PostgreSQL](https://github.com/DevKleberMendes/Cursos/blob/main/3.5%20Conceitos%20e%20melhores%20pr%C3%A1ticas%20com%20bancos%20de%20dados%20PostgreSQL.png)
+### 3.6 Introdução ao MongoDB e Bancos de Dados NoSQL
+![Introdução ao MongoDB e Bancos de Dados NoSQL](https://github.com/DevKleberMendes/Cursos/blob/main/3.6%20Introdu%C3%A7%C3%A3o%20ao%20MongoDB%20e%20Bancos%20de%20Dados%20NoSQL.png)
+### 3.7 Explorando o poder do NoSQL com Cassandra e HBase
+![Explorando o poder do NoSQL com Cassandra e HBase](https://github.com/DevKleberMendes/Cursos/blob/main/3.7%20Explorando%20o%20poder%20do%20NoSQL%20com%20Cassandra%20e%20HBase.png)
+### 3.8 Fundamentos de ETL com Python
+![Fundamentos de ETL com Python](https://github.com/DevKleberMendes/Cursos/blob/main/3.8%20Fundamentos%20de%20ETL%20com%20Python.png)
+### 3.9 Análise de dados com Python e Pandas
+![Análise de dados com Python e Pandas](https://github.com/DevKleberMendes/Cursos/blob/main/3.9%20An%C3%A1lise%20de%20dados%20com%20Python%20e%20Pandas.png)
+### 3.10 Monitoramento de clusters Hadoop de alto nível com HDFS e YARN
+![Monitoramento de clusters Hadoop de alto nível com HDFS e YARN](https://github.com/DevKleberMendes/Cursos/blob/main/3.10%20Monitoramento%20de%20clusters%20Hadoop%20de%20alto%20n%C3%ADvel%20com%20HDFS%20e%20YARN.png)
+### 3.11 Orquestrando ambientes de Big Data distribuídos com Zookeeper, Yarn e Sqoop
+![Orquestrando ambientes de Big Data distribuídos com Zookeeper, Yarn e Sqoop](https://github.com/DevKleberMendes/Cursos/blob/main/3.11%20Orquestrando%20ambientes%20de%20Big%20Data%20distribu%C3%ADdos%20com%20Zookeeper%2C%20Yarn%20e%20Sqoop.png)
+### 3.12 Como realizar consultas de maneira simples no ambiente complexo de Big Data com Hive e Impala
+![Como realizar consultas de maneira simples no ambiente complexo de Big Data com Hive e Impala](https://github.com/DevKleberMendes/Cursos/blob/main/3.12%20Como%20realizar%20consultas%20de%20maneira%20simples%20no%20ambiente%20complexo%20de%20Big%20Data%20com%20Hive%20e%20Impala.png)
+### 3.13 Processando grandes conjuntos de dados de forma paralela e distribuída com Spark
+![Processando grandes conjuntos de dados de forma paralela e distribuída com Spark](https://github.com/DevKleberMendes/Cursos/blob/main/3.13%20Processando%20grandes%20conjuntos%20de%20dados%20de%20forma%20paralela%20e%20distribu%C3%ADda%20com%20Spark.png)
+### 3.14 Criando pipelines de dados eficientes com Spark e Python
+![Criando pipelines de dados eficientes com Spark e Python](https://github.com/DevKleberMendes/Cursos/blob/main/3.14%20Criando%20pipelines%20de%20dados%20eficientes%20com%20Spark%20e%20Python.png)
+### 3.15 Introdução a Engenharia de Dados na AWS
+![Introdução a Engenharia de Dados na AWS](https://github.com/DevKleberMendes/Cursos/blob/main/3.15%20Introdu%C3%A7%C3%A3o%20a%20Engenharia%20de%20Dados%20na%20AWS.png)
+### 3.16 Introdução a Engenharia de Dados na Azure
+![Introdução a Engenharia de Dados na Azure](https://github.com/DevKleberMendes/Cursos/blob/main/3.16%20Introdu%C3%A7%C3%A3o%20a%20Engenharia%20de%20Dados%20na%20Azure.png)
+### 3.17 Introdução à Mensageria na Nuvem Com Kafka e Python
+![Introdução à Mensageria na Nuvem Com Kafka e Python](https://github.com/DevKleberMendes/Cursos/blob/main/3.17%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Mensageria%20na%20Nuvem%20Com%20Kafka%20e%20Python.png)
+
