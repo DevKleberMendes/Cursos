@@ -77,7 +77,7 @@
 
 
 ## 4) Machine Learn e Data Science com Python
-![Machine Learn e Data Science com Pytho]()
+![Machine Learn e Data Science com Pytho](https://github.com/DevKleberMendes/Cursos/blob/main/4.1%20CURSO%20-%20CIENCIA%20DE%20DADOS%20E%20MACHINE%20LEARN%2042H%20-%20KLEBER%20MENDES%20PATRICIO.png)
 
 
 ## 3) Engenharia de Dados Cloud:
